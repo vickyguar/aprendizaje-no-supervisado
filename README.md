@@ -54,6 +54,7 @@ aprendizaje-no-supervizado/
 │
 ├── images/                      % Gráficos
 │   ├── output_corredores.png
+│   ├── output_iris.png
 │   └── output_pacientes_3d.png
 │
 ├── README.md                    % Usted está aquí jaja
