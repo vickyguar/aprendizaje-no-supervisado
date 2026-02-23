@@ -48,7 +48,7 @@ aprendizaje-no-supervizado/
 │   ├── cargar_corredores.m
 │   └── corredores.m
 │
-├── corredores/                  % Ejemplo de iris
+├── iris/                        % Ejemplo de iris
 │   ├── cargar_iris.m
 │   └── iris.m
 │
