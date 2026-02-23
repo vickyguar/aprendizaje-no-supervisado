@@ -13,19 +13,19 @@ Este proyecto contiene la implementación de dos algoritmos fundamentales de apr
     <p align="left">
     <img src="images/output_corredores.png" height="500px" />
     </p>
-    *Generado por `corredores.m`*
+*Generado por* `corredores.m`
 
 2. **Análisis 3D de pacientes**
     <p align="left">
     <img src="images/output_pacientes_3d.png" height="500px" />
     </p>
-    *Generado por:** `pacientes_3d.m`*
+*Generado por* `pacientes_3d.m`
 
 3. **K-Means de Iris**
     <p align="left">
     <img src="images/output_iris.png" height="500px" />
     </p>
-    *Generado por:** `iris.m`*
+*Generado por* `iris.m`
 
 ## Estructura del proyecto
 ```
